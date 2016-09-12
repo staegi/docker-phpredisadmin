@@ -20,7 +20,7 @@ if (!empty($admin_user)) {
     );
 }
 
-$i = 1;
+$i = 0;
 
 while (true) {
 
